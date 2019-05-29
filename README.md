@@ -20,7 +20,7 @@ Interested to discover how Artificial Intelligence can be applied to the field o
 
 # Course Structure
 
-![img](img/course.png)
+![img](course.png)
 
 
 
