@@ -33,6 +33,7 @@ Interested to discover how Artificial Intelligence can be applied to the field o
 8. [Classification](https://nbviewer.jupyter.org/github/anthonyng2/ml_finance_nyp/blob/master/ML_Finance_2019/Lesson%208%20-%20Classification%20%28Logistic%20Regression%29.ipynb)
 9. [Classification Based Machine Learning Algorithm](https://nbviewer.jupyter.org/github/anthonyng2/ml_finance_nyp/blob/master/ML_Finance_2019/Lesson%209%20-%20Classification.ipynb)
 10. [Unsupervised Learning: Clustering](https://nbviewer.jupyter.org/github/anthonyng2/ml_finance_nyp/blob/master/ML_Finance_2019/Lesson%2010%20-%20Clustering.ipynb)
+11. [NLP - Twitter](https://nbviewer.jupyter.org/github/anthonyng2/ml_finance_nyp/blob/master/ML_Finance_2019/Twitter%20-%20direct%20user%20%28Remove%20keys%29.ipynb)
 
 
 
