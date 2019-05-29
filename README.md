@@ -20,7 +20,7 @@ Interested to discover how Artificial Intelligence can be applied to the field o
 
 ## Course Structure
 
-![img](course.png)
+![img](Course.PNG)
 
 ## Contents:
 1. [Getting Started](https://nbviewer.jupyter.org/github/anthonyng2/ml_finance_nyp/blob/master/ML_Finance_2019/Lesson%201%20-%20Getting%20Started.ipynb)
